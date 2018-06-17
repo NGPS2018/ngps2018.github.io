@@ -43,8 +43,8 @@ repo: ngps2018.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://ngps2018.github.io
-source_url:  https://github.com/NGPS2018/ngps2018.github.io #source repository url
+production_url:  https://ngps2019.github.io
+source_url:  https://github.com/NGPS2019/ngps2019.github.io #source repository url
 
 exclude:
   - README.md
