@@ -5,7 +5,7 @@ cover: assets/images/limassol2.jpg
 logo: assets/images/logo.svg
 favicon: assets/images/logo.svg
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://ngps2018.github.io" # the base hostname & protocol for your site
+url: "https://ngps2019.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -38,12 +38,12 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: NGPS2018 #github username
-repo: ngps2018.github.io #github repository
+username: NGPS2019 #github username
+repo: ngps2019.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://ngps2019.github.io
+production_url:  https://ngps2019.github.io/
 source_url:  https://github.com/NGPS2019/ngps2019.github.io #source repository url
 
 exclude:
