@@ -1,6 +1,7 @@
 # Site settings
 title: NGPS 2019 @ Limassol, Cyprus
-description: Next Generation Programming Paradigms and Systems, track of the 34rd ACM/SIGAPP Symposium On Applied Computing
+description: >
+  Next Generation Programming Paradigms and Systems, track of the 34th ACM/SIGAPP Symposium On Applied Computing
 cover: assets/images/limassol2.jpg
 logo: assets/images/logo.svg
 favicon: assets/images/logo.svg
