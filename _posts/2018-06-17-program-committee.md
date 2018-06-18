@@ -8,9 +8,9 @@ tags: NGPS2019
 
 # Organizing Committee
 
-* Davide Ancona
-* Frederic Loulergue
-* Danilo Pianini
-* Mirko Viroli
+* Davide Ancona, DIBRIS, University of Genova, IT
+* Frederic Loulergue, SICCS, Northern Arizona University, USA
+* Danilo Pianini, DISI, University of Bologna, IT
+* Mirko Viroli, DISI, University of Bologna, IT
 
 # Program Committee
