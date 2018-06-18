@@ -3,15 +3,14 @@ layout: post
 cover: 'assets/images/limassol3.jpg'
 title: Committees
 date: 2018-06-16 02:00:00
-tags: FGCS2019
+tags: NGPS2019
 ---
 
-# Organizing committee
+# Organizing Committee
 
 * Davide Ancona
-
 * Frederic Loulergue
-
 * Danilo Pianini
-
 * Mirko Viroli
+
+# Program Committee
