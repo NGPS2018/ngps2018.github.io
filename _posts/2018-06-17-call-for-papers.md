@@ -22,7 +22,7 @@ tags: NGPS2019
 
 <p>SRC abstracts are limited to 4 pages, in camera-ready format, included in the registration fee. No extra pages are allowed.</p>
 
-<p>Papers that fall short the above requirements are subjected to rejection. All papers must be submitted by September 10, 2018. For more information please visit the <a href="https://www.sigapp.org/sac/sac2019/">SAC 2019 home page</a>.</p>
+<p>Papers that fall short the above requirements are subjected to rejection. All papers must be submitted by **September 10, 2018**. For more information please visit the <a href="https://www.sigapp.org/sac/sac2019/">SAC 2019 home page</a>.</p>
 
 <h1>Proceedings</h1>
 

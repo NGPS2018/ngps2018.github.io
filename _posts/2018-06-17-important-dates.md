@@ -3,8 +3,10 @@ layout: post
 cover: 'assets/images/limassol5.jpg'
 title: Important dates
 date: 2018-06-16 05:00:00
-tags: FGPS2019
+tags: NGPS2019
 ---
+
+<h1>Deadlines</h1>
 
 * **Sept 10, 2018** Submission of regular papers and SRC research abstracts
 * **Nov 10, 2018**	Notification of paper acceptance/rejection
