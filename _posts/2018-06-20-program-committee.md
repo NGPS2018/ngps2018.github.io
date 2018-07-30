@@ -31,5 +31,6 @@ tags: NGPS2019
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
 * [Stefan Rudolph](https://www.informatik.uni-augsburg.de/lehrstuehle/oc/mitarbeiter/rudolph/), OC, Augsburg University, DE
+* [Maurice ter Beek](http://fmt.isti.cnr.it/~mtbeek/), FMT-ISTI, CNR, IT
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/), SoSy-Lab, LMU Munich, DE
 
