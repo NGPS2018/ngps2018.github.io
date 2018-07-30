@@ -24,7 +24,12 @@ tags: NGPS2019
 **The current list is partial and will be completed shortly**
 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/), DI, University of Torino, IT
+* [Simon Dobson](https://simondobson.org/), CS, University of St Andrews, UK
 * [Lukas Esterle](http://www.lukasesterle.com/), ALICE, Aston University, UK
+* [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
+* [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
+* [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
 * [Stefan Rudolph](https://www.informatik.uni-augsburg.de/lehrstuehle/oc/mitarbeiter/rudolph/), OC, Augsburg University, DE
+* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/), SoSy-Lab, LMU Munich, DE
 
