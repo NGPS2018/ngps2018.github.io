@@ -43,7 +43,7 @@ tags: NGPS2019
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/), PRG, Tokyo Institute of Technology, JP
 * [Virginia Niculescu](https://www.cs.ubbcluj.ro/~vniculescu/), CS, Babes-Bolyai University of Cluj-Napoca, RO
-* [Nikolaos Papoulias](mailto:npapoylias@gmail.com)
+* [Nick Papoulias](https://parsenet.info), University of La Rochelle, UMR LIENSs, CNRS, FR 
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), DI FCT, New University of Lisbon, PT
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
 * [Sophie Robert](http://www.univ-orleans.fr/lifo/Membres/robert/), LIFO, University of Orléans
