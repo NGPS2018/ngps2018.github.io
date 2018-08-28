@@ -51,7 +51,7 @@ tags: NGPS2019
 * [Nick Papoulias](https://parsenet.info), University of La Rochelle, UMR LIENSs, CNRS, FR 
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), DI FCT, New University of Lisbon, PT
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
-* [Sophie Robert](http://www.univ-orleans.fr/lifo/Membres/robert/), LIFO, University of Orléans
+* [Sophie Robert](http://www.univ-orleans.fr/lifo/Membres/robert/), LIFO, Orléans University, FR
 * [Stefan Rudolph](https://www.informatik.uni-augsburg.de/lehrstuehle/oc/mitarbeiter/rudolph/), OC, Augsburg University, DE
 * [Maurice ter Beek](http://fmt.isti.cnr.it/~mtbeek/), FMT-ISTI, CNR, IT
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/), SoSy-Lab, LMU Munich, DE
