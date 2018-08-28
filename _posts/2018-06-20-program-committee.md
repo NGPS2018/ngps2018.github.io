@@ -42,12 +42,12 @@ tags: NGPS2019
 * [Hideya Iwasaki](http://ipl.cs.uec.ac.jp/~iwasaki/), The University of Electro-Communications, JP
 * [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
 * [Jaakko Järvi](https://www.uib.no/en/persons/Jaakko.Timo.Henrik.J%C3%A4rvi), II, University of Bergen, NO
-* [Doug Lea](http://g.oswego.edu/), CS, University of New York at Oswego
+* [Doug Lea](http://g.oswego.edu/), State University of New York at Oswego, USA
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
 * [Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/), PRG, Tokyo Institute of Technology, JP
 * [Virginia Niculescu](https://www.cs.ubbcluj.ro/~vniculescu/), CS, Babes-Bolyai University of Cluj-Napoca, RO
-* [Tobias Pape](www.hpi.de/swa/people/pape), HPI, University of Potsdam, DE
+* [Tobias Pape](https:www.hpi.de/swa/people/pape), HPI, University of Potsdam, DE
 * [Nick Papoulias](https://parsenet.info), University of La Rochelle, UMR LIENSs, CNRS, FR 
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), DI FCT, New University of Lisbon, PT
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
