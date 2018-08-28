@@ -35,18 +35,19 @@ tags: NGPS2019
 * [Erik Ernst](https://cs.au.dk/~eernst/), Google Inc., USA
 * [Lukas Esterle](http://www.lukasesterle.com/), ALICE, Aston University, UK
 * [Frédéric Gava](http://www.lacl.fr/gava/), LACL, Université Paris-Est Créteil, FR
-* [Khaled Hamidouche](mailto:khaledhamidouche@gmail.com) AMD Research, USA
 * [Philipp Haller](http://www.csc.kth.se/~phaller/), KTH Royal Institute of Technology, SE 
+* [Khaled Hamidouche](mailto:khaledhamidouche@gmail.com) AMD Research, USA
 * [Geoff Hamilton](http://www.computing.dcu.ie/~hamilton/), School of Computing, Dublin City University, IE
 * [Robert Hirschfeld](http://www.hpi.uni-potsdam.de/hirschfeld/people/hirschfeld/), HPI, University of Potsdam, DE
 * [Hideya Iwasaki](http://ipl.cs.uec.ac.jp/~iwasaki/), The University of Electro-Communications, JP
+* [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
 * [Jaakko Järvi](jaakko.jarvi@ii.uib.no), II, University of Bergen, NO
 * [Doug Lea](http://g.oswego.edu/), CS, University of New York at Oswego
-* [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
-* [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
+* [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
 * [Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/), PRG, Tokyo Institute of Technology, JP
 * [Virginia Niculescu](https://www.cs.ubbcluj.ro/~vniculescu/), CS, Babes-Bolyai University of Cluj-Napoca, RO
+* [Tobias Pape](www.hpi.de/swa/people/pape), HPI, University of Potsdam, DE
 * [Nick Papoulias](https://parsenet.info), University of La Rochelle, UMR LIENSs, CNRS, FR 
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), DI FCT, New University of Lisbon, PT
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
