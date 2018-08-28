@@ -41,7 +41,7 @@ tags: NGPS2019
 * [Robert Hirschfeld](http://www.hpi.uni-potsdam.de/hirschfeld/people/hirschfeld/), HPI, University of Potsdam, DE
 * [Hideya Iwasaki](http://ipl.cs.uec.ac.jp/~iwasaki/), The University of Electro-Communications, JP
 * [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
-* [Jaakko Järvi](jaakko.jarvi@ii.uib.no), II, University of Bergen, NO
+* [Jaakko Järvi](https://www.uib.no/en/persons/Jaakko.Timo.Henrik.J%C3%A4rvi), II, University of Bergen, NO
 * [Doug Lea](http://g.oswego.edu/), CS, University of New York at Oswego
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
