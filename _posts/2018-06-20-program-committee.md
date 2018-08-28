@@ -24,6 +24,7 @@ tags: NGPS2019
 **The current list is partial and will be completed shortly**
 
 * [Mohamad Al Hajj Hassan](mailto:mohamad.alhajjhassan@gmail.com), Huawei, DE
+* [Victor Allombert](http://www.lacl.fr/~vallombert/), Orléans University, France
 * [Lorenzo Bettini](http://www.lorenzobettini.it/about/), DISIA, University of Florence, IT
 * [Hélène Coullon](http://helene-coullon.fr/), IMT Atlantique, Inria, FR
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/), DI, University of Torino, IT
