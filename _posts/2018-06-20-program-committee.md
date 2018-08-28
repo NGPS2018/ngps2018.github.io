@@ -24,8 +24,10 @@ tags: NGPS2019
 **The current list is partial and will be completed shortly**
 
 * [Mohamad Al Hajj Hassan](mailto:mohamad.alhajjhassan@gmail.com), Huawei, DE
-* [Victor Allombert](http://www.lacl.fr/~vallombert/), Orléans University, France
+* [Victor Allombert](http://www.lacl.fr/~vallombert/), Orléans University, FR
 * [Lorenzo Bettini](http://www.lorenzobettini.it/about/), DISIA, University of Florence, IT
+* [Carl Friedrich Bolz-Tereick](http://cfbolz.de/), DE
+* [João Costa Seco](https://docentes.fct.unl.pt/jrcs/), New University of Lisbon, PT
 * [Hélène Coullon](http://helene-coullon.fr/), IMT Atlantique, Inria, FR
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/), DI, University of Torino, IT
 * [Simon Dobson](https://simondobson.org/), CS, University of St Andrews, UK
@@ -33,13 +35,14 @@ tags: NGPS2019
 * [Erik Ernst](https://cs.au.dk/~eernst/), Google Inc., USA
 * [Lukas Esterle](http://www.lukasesterle.com/), ALICE, Aston University, UK
 * [Frédéric Gava](http://www.lacl.fr/gava/), LACL, Université Paris-Est Créteil, FR
-* [Robert Hirschfeld](http://www.hpi.uni-potsdam.de/hirschfeld/people/hirschfeld/), HPI, University of Potsdam, DE
-* [Jaakko Järvi](jaakko.jarvi@ii.uib.no), II, University of Bergen, NO
-* [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
 * [Khaled Hamidouche](mailto:khaledhamidouche@gmail.com) AMD Research, USA
+* [Philipp Haller](http://www.csc.kth.se/~phaller/), KTH Royal Institute of Technology, SE 
 * [Geoff Hamilton](http://www.computing.dcu.ie/~hamilton/), School of Computing, Dublin City University, IE
+* [Robert Hirschfeld](http://www.hpi.uni-potsdam.de/hirschfeld/people/hirschfeld/), HPI, University of Potsdam, DE
 * [Hideya Iwasaki](http://ipl.cs.uec.ac.jp/~iwasaki/), The University of Electro-Communications, JP
+* [Jaakko Järvi](jaakko.jarvi@ii.uib.no), II, University of Bergen, NO
 * [Doug Lea](http://g.oswego.edu/), CS, University of New York at Oswego
+* [Einar Broch Johnsen](http://einarj.at.ifi.uio.no/), UiO, University of Oslo, NO
 * [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
 * [Alberto Lluch Lafuente](http://www.dtu.dk/english/service/phonebook/person?id=94040&tab=2&qt=dtupublicationquery), DTU COMPUTE, Technical University of Denmark, DK
 * [Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/), PRG, Tokyo Institute of Technology, JP
