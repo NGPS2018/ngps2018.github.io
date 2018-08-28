@@ -47,7 +47,7 @@ tags: NGPS2019
 * [Michele Loreti](http://www.micheleloreti.com/), DI, University of Camerino, IT
 * [Hidehiko Masuhara](http://prg.is.titech.ac.jp/people/masuhara/), PRG, Tokyo Institute of Technology, JP
 * [Virginia Niculescu](https://www.cs.ubbcluj.ro/~vniculescu/), CS, Babes-Bolyai University of Cluj-Napoca, RO
-* [Tobias Pape](https:www.hpi.de/swa/people/pape), HPI, University of Potsdam, DE
+* [Tobias Pape](https://www.hpi.de/swa/people/pape), HPI, University of Potsdam, DE
 * [Nick Papoulias](https://parsenet.info), University of La Rochelle, UMR LIENSs, CNRS, FR 
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), DI FCT, New University of Lisbon, PT
 * [Barbara Re](https://barbarare.wordpress.com/), SST, University of Camerino, IT
