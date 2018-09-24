@@ -9,7 +9,7 @@ tags: NGPS2019
 <h1>Deadlines</h1>
 
 * <strike>Sept 10, 2018 Submission of regular papers and SRC research abstracts</strike>
-* **Sept 24, 2018** Submission of regular papers and SRC research abstracts
+* **(Extended Deadline) Oct 3, 2018** Submission of regular papers and SRC research abstracts
 * <strike>Nov 10, 2018 Notification of paper acceptance/rejection</strike>
 * **Nov 24, 2018**	Notification of paper acceptance/rejection
 * <strike>Nov 10, 2018 Notification of SRC acceptance/rejection</strike>
